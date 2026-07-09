@@ -1,4 +1,4 @@
-# Module 2 – Data Structures & Algorithms (Java)
+#Data Structures & Algorithms (Java)
 ### Cognizant Digital Nurture 5.0 – Java Full Stack Engineer Track
 
 This repository contains hands-on Java implementations for Module 2, covering
